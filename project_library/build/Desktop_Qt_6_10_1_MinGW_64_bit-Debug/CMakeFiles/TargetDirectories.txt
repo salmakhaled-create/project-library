@@ -1,0 +1,9 @@
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/project_library.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/project_library_autogen_timestamp_deps.dir
+C:/Users/salma/Documents/project/project_library/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/project_library_autogen.dir
